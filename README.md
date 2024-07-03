@@ -1,6 +1,6 @@
 <div align='center'>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zuwttpzr4kno39w8xs2haodrl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zuwttpzr4kno39w8xs2haodrl&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zuwttpzr4kno39w8xs2haodrl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=zuwttpzr4kno39w8xs2haodrl&redirect=true)
 </div>
 <br/>
 <div  align="center">
@@ -24,6 +24,9 @@
 </a>
 <a href='https://velog.io/@no-pla'>
 <span><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></span>
+</a>
+<a href='https://no-pla.hashnode.dev'>
+<span><img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></span>
 </a>
 </div>
 <br/>
