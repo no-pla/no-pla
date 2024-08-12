@@ -25,9 +25,6 @@
 <a href='https://velog.io/@no-pla'>
 <span><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></span>
 </a>
-<a href='https://no-pla.hashnode.dev'>
-<span><img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></span>
-</a>
 </div>
 <br/>
 <br/>
